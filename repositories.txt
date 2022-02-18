@@ -1,0 +1,15 @@
+https://github.com/rancher/machine
+https://github.com/rancher/fleet
+https://github.com/rancher/telemetry
+https://github.com/rancher/shell 
+https://github.com/rancher/system-agent
+https://github.com/rancher/local-path-provisioner
+https://github.com/rancher/loglevel
+https://github.com/rancher/webhook 
+https://github.com/k3s-io/klipper-helm
+https://github.com/rancher/gitjob 
+https://github.com/rancher/system-agent-installer-rke2
+https://github.com/rancher/system-agent-installer-k3s 
+https://github.com/rancher/drone-docker-image-digests
+https://github.com/rancher/fleet
+https://github.com/rancher/rancher
